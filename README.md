@@ -32,14 +32,11 @@ Aplicação full stack para comparar salários CLT e PJ, com autenticação de u
 ---
 
 ## 📸 Telas da aplicação
+<img width="1167" height="729" alt="login" src="https://github.com/user-attachments/assets/5ad68093-ddf7-481f-82b4-bf8d20dc8393" />
+<img width="1167" height="729" alt="dashboard2" src="https://github.com/user-attachments/assets/27d20d12-1a7a-4ec5-b09e-b68feb4bae9c" />
 
-### 🔐 Login
-![Login](./screenshots/login.png)
+<img width="1167" height="729" alt="dashboard1" src="https://github.com/user-attachments/assets/998ed849-4c06-4ffd-8bca-515a40d5bef7" />
 
-### 🧮 Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
----
 
 ## 🧾 Logs das operações
 
